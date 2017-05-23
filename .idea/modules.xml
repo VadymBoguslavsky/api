@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../angular-token-auth-seed-final/.idea/angular-token-auth-seed-final.iml" filepath="$PROJECT_DIR$/../angular-token-auth-seed-final/.idea/angular-token-auth-seed-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sample_api.iml" filepath="$PROJECT_DIR$/.idea/sample_api.iml" />
+    </modules>
+  </component>
+</project>
